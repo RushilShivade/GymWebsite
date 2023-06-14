@@ -1,8 +1,8 @@
 # GymWebsite
 A website made during my summer holidays for the gym I go to.
 
-This website is made using HTML, CSS and JavaScript and is static. The website has beautiful ScrollReveal animations and an accent color (here purple) that can be changed instantly. This website was asked to be created by the gym I go to.
-The website also has a functionality of registering through email so the user can enter the email and will receive a mail regarding further details. This is done by EmailJS.
+This website is made using HTML, CSS and JavaScript and is static. The website has beautiful ScrollReveal animations and an accent color (here purple) that can be changed instantly. This project was asked to be made by the gym I go to.
+It also has a functionality of registering through email so the user can enter the email and will receive a mail regarding further details. This is done by EmailJS.
 
 Link: https://gym-website-by-rushil.netlify.app/
 
